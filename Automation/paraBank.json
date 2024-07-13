@@ -1,0 +1,24 @@
+{
+    "env":{
+        "userName":         "Breck01@",
+        "passWord":         "24052024",
+        "firstName":         "Rebeccah",
+        "lastName":          "Edo",
+        "addressStreet":     "House 1, Dominion Estate,Badore",
+        "addressCity":       "Ajah",
+        "addressState":      "Lagos",
+        "zipCode":           "11011",
+        "phoneNumber":       "08055084426",
+        "customerSsn":        "44423456789",
+        "payeeName":          "Sarahh",
+        "payeeStreet":         "Gwarinpa",
+        "payeeCity":           "FCT",
+        "payeeState":          "Abuja"
+
+
+
+
+
+        
+    }
+}
